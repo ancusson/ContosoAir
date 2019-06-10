@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://andysvstssandbox.visualstudio.com/Azure%20Pipelines%20and%20Boards%20with%20GitHub/_apis/build/status/ancusson.ContosoAir?branchName=master)](https://andysvstssandbox.visualstudio.com/Azure%20Pipelines%20and%20Boards%20with%20GitHub/_build/latest?definitionId=10&branchName=master)
 
 # Microsoft.Github CI Demo
 
